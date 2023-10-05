@@ -3,7 +3,7 @@
   "item.testing.raw_terri": "Raw Terri",
   "item.testing.petri": "Petri",
   "item.testing.raw_petri": "Raw Petri",
-  "itemgroup.territab": "Terri Item Tab",
-  "itemgroup.petritab": "Petri Item Tab"
+  "itemGroup.territab": "Terri Item Tab",
+  "itemGroup.petritab": "Petri Item Tab"
 
 }
