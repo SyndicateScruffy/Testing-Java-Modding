@@ -1,6 +1,8 @@
 {
   "item.testing.terri": "Terri",
+  "item.testing.raw_terri": "Raw Terri",
   "item.testing.petri": "Petri",
+  "item.testing.raw_petri": "Raw Petri",
   "itemgroup.territab": "Terri Item Tab",
   "itemgroup.petritab": "Petri Item Tab"
 
